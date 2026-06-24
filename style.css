@@ -1,0 +1,17 @@
+body{
+    font-family: arial, sans-serif;
+    color: blue;
+    background-color: aqua;
+    padding: 20px;
+}
+
+button{
+    padding: 8px 15px;
+    margin-left: 5px;
+   color: brown;
+}
+
+li{
+    margin: 10px 0;
+}
+
